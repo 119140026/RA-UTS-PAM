@@ -1,4 +1,4 @@
-RA/119140026/Muhammad Asyroful Nur Maulana Yusuf
+RA-119140026-Muhammad Asyroful Nur Maulana Yusuf
 
 Aplikasi Kapal Skuy :
 1. Penambahan Modul Navigasi, Picker, Stack, dan Params
