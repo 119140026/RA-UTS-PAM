@@ -9,26 +9,14 @@ const Kapal = [
         kapal_nama:'Merak',
     },
     {
-        kapal_id:'tan',
-        kapal_nama:'Tanjung Priok',
+        kapal_id:'kap',
+        kapal_nama:'Kapang',
     },
     {
-        kapal_id:'sun',
-        kapal_nama:'Sunda Kelapa',
+        kapal_id:'kam',
+        kapal_nama:'Kamal',
     }
 ]
 
-const Biaya=[
-    {
-        muda:30000,
-        dewasa:50000,
-    }
-]
 
-const Layanan =[
-    {
-        
-    }
-]
-
-export{Kapal,Biaya}
+export{Kapal}
